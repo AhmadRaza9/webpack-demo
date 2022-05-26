@@ -14,6 +14,8 @@ Includes the following features...
 - Caching
 
 Usage
+- npm init
+- npm i webpack
 - npm run dev
   
 Build for production
